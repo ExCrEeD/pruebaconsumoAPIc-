@@ -1,0 +1,11 @@
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\bin\Debug\netcoreapp2.1\EjemploConsumoAPi.deps.json
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\bin\Debug\netcoreapp2.1\EjemploConsumoAPi.runtimeconfig.json
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\bin\Debug\netcoreapp2.1\EjemploConsumoAPi.runtimeconfig.dev.json
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\bin\Debug\netcoreapp2.1\EjemploConsumoAPi.dll
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\bin\Debug\netcoreapp2.1\EjemploConsumoAPi.pdb
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.csprojAssemblyReference.cache
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.csproj.CoreCompileInputs.cache
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.AssemblyInfoInputs.cache
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.AssemblyInfo.cs
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.dll
+C:\Users\ExCrEeD\source\repos\EjemploConsumoAPi\EjemploConsumoAPi\obj\Debug\netcoreapp2.1\EjemploConsumoAPi.pdb
